@@ -26,7 +26,7 @@ If you encounter any issues, check the following:
 - Ensure you have done the initial setup of the LRT Wallbox via its BLE LRT PowerUP application.
 - Check the Home Assistant logs for any error messages related to the integration.
 - Ensure that the integration is up to date by checking for updates in HACS.
-- If you have any issues, please open an issue on the [GitHub repository](https://github.com/Upgreydd/lrt_wallbox_hacs)
+- If you have any issues, please open an issue on the [GitHub repository](https://github.com/upgreydd/ha-lrt-wallbox)
 - For more detailed troubleshooting, refer to the [Home Assistant documentation](https://www.home-assistant.io/docs/).
 - If you have any questions or need help, you can join the [Home Assistant Community](https://community.home-assistant.io/) and ask for assistance.
 - If you have suggestions for improvements or new features, feel free to open a feature request on the GitHub repository.
