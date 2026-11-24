@@ -8,10 +8,10 @@
     "@Upgreydd"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/Upgreydd/lrt_wallbox_hacs",
+  "documentation": "https://github.com/upgreydd/ha-lrt-wallbox",
   "integration_type": "device",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/Upgreydd/lrt_wallbox_hacs/issues",
+  "issue_tracker": "https://github.com/upgreydd/ha-lrt-wallbox/issues",
   "loggers": [
     "lrt_wallbox"
   ],
